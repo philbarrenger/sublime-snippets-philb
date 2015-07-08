@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+k"], "command": "find_under" }
+]
